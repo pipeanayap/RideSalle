@@ -1,0 +1,1 @@
+# repositories/ — Acceso a datos (Mongoose). Encapsulan queries; única capa que toca los models.

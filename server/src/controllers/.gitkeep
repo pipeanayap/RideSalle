@@ -1,0 +1,1 @@
+# controllers/ — Reciben req/res, validan entrada (Zod) y delegan en services. Sin lógica de negocio.
